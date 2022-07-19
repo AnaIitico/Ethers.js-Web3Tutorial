@@ -115,7 +115,7 @@ WARNING! I recommend using `Node.js 16.13.1` and `Python` with `Anaconda` and `J
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/AnaIitico/Web3Tutorial.git
+   git clone https://github.com/AnaIitico/Ethers.js-Web3Tutorial.git
    ```
 
 2. You don't need to install pip - Conda comes with pip and you can also use the command
@@ -205,14 +205,14 @@ Acknowledgements
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/AnaIitico/Web3Tutorial.svg?style=for-the-badge
-[contributors-url]: https://github.com/AnaIitico/Web3Tutorial/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/AnaIitico/Web3Tutorial.svg?style=for-the-badge
-[forks-url]: https://github.com/AnaIitico/Web3Tutorial/network/members
-[stars-shield]: https://img.shields.io/github/stars/AnaIitico/Web3Tutorial.svg?style=for-the-badge
-[stars-url]: https://github.com/AnaIitico/Web3Tutorial/stargazers
-[issues-shield]: https://img.shields.io/github/issues/AnaIitico/Web3Tutorial/network/members?style=for-the-badge
-[issues-url]: https://github.com/AnaIitico/Web3Tutorial/issues
+[contributors-shield]: https://img.shields.io/github/contributors/AnaIitico/Ethers.js-Web3Tutorial.svg?style=for-the-badge
+[contributors-url]: https://github.com/AnaIitico/Ethers.js-Web3Tutorial/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/AnaIitico/Ethers.js-Web3Tutorial.svg?style=for-the-badge
+[forks-url]: https://github.com/AnaIitico/Ethers.js-Web3Tutorial/network/members
+[stars-shield]: https://img.shields.io/github/stars/AnaIitico/Ethers.js-Web3Tutorial.svg?style=for-the-badge
+[stars-url]: https://github.com/AnaIitico/Ethers.js-Web3Tutorial/stargazers
+[issues-shield]: https://img.shields.io/github/issues/AnaIitico/Ethers.js-Web3Tutorial/network/members?style=for-the-badge
+[issues-url]: https://github.com/AnaIitico/Ethers.js-Web3Tutorial/issues
 <!-- [license-shield]: 
 [license-url]:  -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
